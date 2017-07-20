@@ -1,0 +1,9 @@
+/Users/talha/Coding/ClionProjects/pricerightnlp/inputdir/OD0-preprocessed.png.txt
+/Users/talha/Coding/ClionProjects/pricerightnlp/inputdir/OD1-preprocessed.png.txt
+/Users/talha/Coding/ClionProjects/pricerightnlp/inputdir/OD2-preprocessed.png.txt
+/Users/talha/Coding/ClionProjects/pricerightnlp/inputdir/OD3-preprocessed.png.txt
+/Users/talha/Coding/ClionProjects/pricerightnlp/inputdir/OD4-preprocessed.png.txt
+/Users/talha/Coding/ClionProjects/pricerightnlp/inputdir/WB0-preprocessed.png.txt
+/Users/talha/Coding/ClionProjects/pricerightnlp/inputdir/WB1-preprocessed.png.txt
+/Users/talha/Coding/ClionProjects/pricerightnlp/inputdir/WB2-preprocessed.png.txt
+/Users/talha/Coding/ClionProjects/pricerightnlp/inputdir/WB4-preprocessed.png.txt

@@ -1,0 +1,30 @@
+Item 0 1 0 0 4 null Description 
+Description 0 1 0 0 11 Item QtyPrice 
+QtyPrice 0 1 0 0 8 Description Total 
+Total 0 1 0 1 5 QtyPrice . 
+
+Number 0 1 1 1 6 . . 
+
+MMM1448BSCISSORS,PRECISION,$",BENT 0 0 1 1 34 . 1 
+1 1 0 0 0 1 MMM1448BSCISSORS,PRECISION,$",BENT $5.29/EA 
+$5.29/EA 0 0 1 0 8 1 $5.29 
+$5.29 0 0 0 1 5 $5.29/EA . 
+
+HAM 0 1 1 0 3 . 105007PAPER,92BRIGHT,WE,LTR,20# 
+105007PAPER,92BRIGHT,WE,LTR,20# 0 0 0 1 31 HAM 2 
+2 1 0 0 0 1 105007PAPER,92BRIGHT,WE,LTR,20# $32.99/CT$65.98 
+$32.99/CT$65.98 0 0 1 1 15 2 . 
+
+Product 0 1 1 0 7 . $71.27 
+$71.27 0 0 0 1 6 Product . 
+
+Subtotal: 0 0 1 1 9 . . 
+
+Tax 0 1 1 0 3 . Subtotal*: 
+Subtotal*: 0 0 0 0 10 Tax $0.00 
+$0.00 0 0 0 1 5 Subtotal*: . 
+
+Order 0 1 1 0 5 . Total: 
+Total: 0 0 0 0 6 Order $71.27 
+$71.27 0 0 0 1 6 Total: . 
+
